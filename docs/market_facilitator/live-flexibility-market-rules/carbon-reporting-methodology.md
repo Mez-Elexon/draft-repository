@@ -22,7 +22,7 @@
 
 ### 1.2. Methodology
 
-&#x20;DNO[^1]s will perform the calculation by technology category without input from providers, except to confirm the technology category where required.
+&#x20;DNO[^DNO]s will perform the calculation by technology category without input from providers, except to confirm the technology category where required.
 
 The calculation includes direct (such as fuel combustion) and consequential carbon impacts (such as battery charging) but excludes indirect impacts (such as embedded emissions in the materials).
 
@@ -238,4 +238,4 @@ The following definitions are specific to this Flexibility Market Rule. These ar
 
 ##
 
-[^1]: Distribution Network Operator
+[^DNO]: Distribution Network Operator
