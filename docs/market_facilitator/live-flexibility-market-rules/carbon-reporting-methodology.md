@@ -236,7 +236,7 @@ The following definitions are specific to this Flexibility Market Rule. These ar
 [meta-data.md](snippets/meta-data.md)
 {% endcontent-ref %}
 
-
+random text
 [^DNO]: Distribution Network Operator.
 [^DNOPD]: Distribution Network OperatorPD.
-random text
+
