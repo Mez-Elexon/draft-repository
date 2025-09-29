@@ -61,5 +61,6 @@
           * [Common End-to-End Process Workstream Toolkit v2.0](<docs/Market_Facilitator/Flexibility_Market_Rules_Development/Common_End_to_End_Process/Archive/Common End-to-End Process Workstream Toolkit v2.0.md>)
       * [Evolution of the Standard Agreement](docs/Market_Facilitator/Flexibility_Market_Rules_Development/Evolution_of_the_Standard_Agreement/readme.md)
       * [Vision for Market Coordination](docs/Market_Facilitator/Flexibility_Market_Rules_Development/Vision_for_Market_Coordination/readme.md)
-    * [Live Flexibility Market Rules](docs/market_facilitator/live-flexibility-market-rules.md)
-    * [Carbon Reporting Methodology](docs/market_facilitator/carbon-reporting-methodology.md)
+    * [Live Flexibility Market Rules](docs/market_facilitator/live-flexibility-market-rules/README.md)
+      * [Carbon Reporting Methodology](docs/market_facilitator/live-flexibility-market-rules/carbon-reporting-methodology.md)
+      * [Untitled](docs/market_facilitator/live-flexibility-market-rules/untitled.md)
