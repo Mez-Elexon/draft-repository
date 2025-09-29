@@ -64,5 +64,5 @@
     * [Live Flexibility Market Rules](docs/market_facilitator/live-flexibility-market-rules/README.md)
       * [Carbon Reporting Methodology](docs/market_facilitator/live-flexibility-market-rules/carbon-reporting-methodology.md)
       * [Untitled](docs/market_facilitator/live-flexibility-market-rules/untitled.md)
-* [Snippets](snippets/README.md)
-  * [Meta Data](snippets/meta-data.md)
+    * [Snippets](docs/market_facilitator/snippets/README.md)
+      * [Meta Data](docs/market_facilitator/snippets/meta-data.md)
