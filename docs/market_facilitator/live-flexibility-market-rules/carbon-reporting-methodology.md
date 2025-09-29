@@ -255,8 +255,8 @@ The following definitions are specific to this Flexibility Market Rule. These ar
 ## Annex 1: Associated meta-data
 
 
-{% content-ref url="snippets/meta-data.md" %}
-[Features Table](snippets/meta-data.md)
+{% content-ref url="Snippets/meta-data.md" %}
+[Features Table](Snippets/meta-data.md)
 {% /content-ref %}
 
 ## &#x20;
