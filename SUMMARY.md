@@ -66,3 +66,5 @@
       * [Untitled](docs/market_facilitator/live-flexibility-market-rules/untitled.md)
       * [Snippets](docs/market_facilitator/live-flexibility-market-rules/snippets/README.md)
         * [Meta Data](docs/market_facilitator/live-flexibility-market-rules/snippets/meta-data.md)
+        * [Glossary](docs/market_facilitator/live-flexibility-market-rules/snippets/glossary/README.md)
+          * [DNO](docs/market_facilitator/live-flexibility-market-rules/snippets/glossary/dno.md)
