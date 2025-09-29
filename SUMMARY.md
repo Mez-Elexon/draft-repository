@@ -11,7 +11,7 @@
           * [FMAR Design Repository: Rules of Engagement](docs/Market_Facilitator/FMAR_Design/Programme_Level/Miscellaneous/rules-of-engagement.md)
           * [FMAR Design change – Self-scoring matrix guide](docs/Market_Facilitator/FMAR_Design/Programme_Level/Miscellaneous/self-scoring-matrix.md)
         * [Workshop\_Summary\_Notes](docs/market_facilitator/fmar_design/programme_level/workshop_summary_notes/README.md)
-          * [FMAR Design Workshop #1: Programme Vision, Scope & Use Case Foundations](<docs/Market_Facilitator/FMAR_Design/Programme_Level/Workshop_Summary_Notes/Workshop#1 structure.md>)
+          * [FMAR Design Workshop #1: Programme Vision, Scope & Use Case Foundations](docs/market_facilitator/fmar_design/programme_level/workshop_summary_notes/workshop-1-structure.md)
       * [Ecosystem\_Architecture](docs/market_facilitator/fmar_design/ecosystem_architecture/README.md)
         * [Actor to Role Mappings](docs/market_facilitator/fmar_design/ecosystem_architecture/actor-to-role-mappings/README.md)
           * [FMAR Actors](<docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/Actor to Role Mappings/Actors.md>)
