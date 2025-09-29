@@ -255,7 +255,7 @@ The following definitions are specific to this Flexibility Market Rule. These ar
 ## Annex 1: Associated meta-data
 
 
-{% content-ref url="snippets/meta-data.md" %}{% /content-ref %}
+{% content-ref url="snippets/meta-data.md" %}{% endcontent-ref %}
 
 ## &#x20;
 
