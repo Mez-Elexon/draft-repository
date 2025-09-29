@@ -22,7 +22,7 @@
 
 ### 1.2.   Methodology
 
-{% content-ref url="snippets/glossary/dno.md" %}[DNO]{% /content-ref %} DNOs will perform the calculation by technology category without input from providers, except to confirm the technology category where required.
+<abbr title="DNO — Distribution Network Operator.">DNO</abbr> DNOs will perform the calculation by technology category without input from providers, except to confirm the technology category where required.
 
 The calculation includes direct (such as fuel combustion) and consequential carbon impacts (such as battery charging) but excludes indirect impacts (such as embedded emissions in the materials).
 
