@@ -16,7 +16,7 @@
 
 </details>
 
-{% include "https://app.gitbook.com/s/oRttk97FtkViSf4mxiBq/~/reusable/y75MZ270SBUDTfN9xCbg/" %}
+{% include "../../../.gitbook/includes/legal-intro.md" %}
 
 ## 1.  Core rule
 
@@ -170,7 +170,7 @@ Provide the dispatch intensity metric (total carbon impact divided by the total 
 
 ## 2.  Implementation details
 
-{% include "https://app.gitbook.com/s/oRttk97FtkViSf4mxiBq/~/reusable/wdUU117VI301F6PB1ZUK/" %}
+{% include "../../../.gitbook/includes/implementation-details-dnos.md" %}
 
 Table 1: Implementation requirements
 
