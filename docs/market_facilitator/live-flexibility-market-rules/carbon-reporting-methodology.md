@@ -239,3 +239,4 @@ The following definitions are specific to this Flexibility Market Rule. These ar
 ##
 
 [^DNO]: Distribution Network Operator
+[^DNOPD]: Distribution Network OperatorPD
